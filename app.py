@@ -1,1 +1,1 @@
-print("from A")
+print("from A and B")
