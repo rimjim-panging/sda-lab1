@@ -1,1 +1,1 @@
-print("base")
+print("from A")
